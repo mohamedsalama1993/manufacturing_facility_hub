@@ -1,0 +1,8 @@
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+lxml>=5,<7
+selenium>=4.20,<5
+pytest>=8,<10
+
+# Windows timezone database used by Python zoneinfo
+tzdata>=2025.2
